@@ -7,3 +7,5 @@
 ````
 . <(wget -qO- https://raw.githubusercontent.com/martynovalek/OpenVPN/main/crate_client_config.sh)
 ````
+Скачать сертификат на комп.
+Сертификат лежит по адресу: /etc/openvpn/client-configs/files/client1.ovpn
