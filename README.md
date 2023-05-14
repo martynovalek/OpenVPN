@@ -5,5 +5,5 @@
 . <(wget -qO- https://raw.githubusercontent.com/martynovalek/OpenVPN/main/install_script.sh)
 ````
 ````
-. <(wget -qO- https://raw.githubusercontent.com/martynovalek/OpenVPN/main/install_script.sh)
+. <(wget -qO- https://raw.githubusercontent.com/martynovalek/OpenVPN/main/crate_client_config.sh)
 ````
